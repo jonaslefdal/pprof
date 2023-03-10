@@ -16,7 +16,7 @@ Wordcount03 - profile 009 - mem2<br />
 real	0m0.005s<br />
 user	0m0.002s<br />
 sys	0m0.003s<br />
-## time ./wordcount01 STORFIL
+## Time ./wordcount01 STORFIL
 real	0m0.014s<br />
 user	0m0.006s<br />
 sys	0m0.012s<br />
